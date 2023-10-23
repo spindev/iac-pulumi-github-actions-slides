@@ -1,12 +1,12 @@
 # General
 In this repo you can find my slides for my talk "IaC with Pulumi and GitHub Actions". Next to the slides there are all my commands I used for the demos.
 
-## Demo - Creating a new Pulumi project
-
-### Prerequisetes
+# Prerequisites
 - [Pulumi CLI](https://www.pulumi.com/docs/get-started/install/) installed
 - [GitHub CLI](https://cli.github.com/) installed
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed
+
+# Demo - Creating a new Pulumi project
 
 Go to a specific folder and type in the following commands:
 
