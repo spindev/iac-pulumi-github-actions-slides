@@ -93,7 +93,7 @@ jobs:
         uses: pulumi/actions@v4
         with:
           command: up
-          stack: dev
+          stack-name: dev
         env:
           PULUMI_ACCESS_TOKEN: ${{ secrets.PULUMI_ACCESS_TOKEN }}
           ARM_USE_OIDC: true
