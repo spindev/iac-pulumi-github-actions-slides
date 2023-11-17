@@ -62,6 +62,8 @@ Make sure OICD is set up correctly and you have access to the values for the sec
 
 ```bash
 # Create a new workflow file under .github/workflows
+mkdir .github
+mkdir .github/workflows
 touch .github/workflows/deploy.yml
 ```` 
 
